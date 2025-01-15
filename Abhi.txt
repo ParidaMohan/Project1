@@ -1,2 +1,3 @@
 int id=1
-String name
+String name=
+String Home=
